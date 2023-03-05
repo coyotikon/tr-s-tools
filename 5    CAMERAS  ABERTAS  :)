@@ -1,0 +1,93 @@
+import requests, re, os
+import time
+import sys
+from colorama import Fore,Back,Style
+
+print('\033[;1m'+'\033[37m'+"[X] FEITO POR AIKON (agente.17) [X]")
+print("\n")
+
+print (Fore.BLUE + Style.BRIGHT+"[+] INSTALANDO POR FAVOR AGUARDE [+]"+'\033[1;30m')
+def progress_bar(done):
+    print(Fore.CYAN + Style.DIM+"\rCarregando: [{0:50s}] {1:.1f}%".format('#' * int(done * 50), done * 100),end='')
+
+def test():
+    for n in range(101):
+        progress_bar(n/100)
+        time.sleep(0.1)
+
+
+test()      
+
+#TA PROCURANDO OQUE AQUI AMIGO ?
+
+
+cmd = 'pip3 install emoji'
+os.system(cmd)
+os.system('pip3 install requests')
+
+print(Fore.LIGHTGREEN_EX+"""                       .,,uod8B8bou,,.
+              ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
+         ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
+         !...:!TVBBBRPFT||||||||||!!^^""'   ||||
+         !.......:!?|||||!!^^""'            ||||
+         !.........||||                     ||||
+         !.........||||  ##Feito por Aikon  ||||
+         !.........||||         Hello       ||||
+         !.........||||                     ||||
+         !.........||||                     ||||
+         !.........||||                     ||||
+         `.........||||                    ,||||
+          .;.......||||               _.-!!|||||
+   .,uodWBBBBb.....||||       _.-!!|||||||||!:'
+!YBBBBBBBBBBBBBBb..!|||:..-!!|||||||!iof68BBBBBb....
+!..YBBBBBBBBBBBBBBb!!||||||||!iof68BBBBBBRPFT?!::   `.
+!....YBBBBBBBBBBBBBBbaaitf68BBBBBBRPFT?!:::::::::     `.
+!......YBBBBBBBBBBBBBBBBBBBRPFT?!::::::;:!^"`;:::       `.
+!........YBBBBBBBBBBRPFT?!::::::::::^''...::::::;         iBBbo.
+`..........YBRPFT?!::::::::::::::::::::::::;iof68bo.      WBBBBbo.
+  `..........:::::::::::::::::::::::;iof688888888888b.     `YBBBP^'
+    `........::::::::::::::::;iof688888888888888888888b.     `
+      `......:::::::::;iof688888888888888888888888888888b.
+        `....:::;iof688888888888888888888888888888888899fT!
+          `..::!8888888888888888888888888888888899fT|!^"'
+            `' !!988888888888888888888888899fT|!^"'
+                `!!8888888888888888899fT|!^"'
+                  `!988888888899fT|!^"'
+                    `!9899fT|!^"'
+                      `!^"'
+"""+'\033[37m')
+print("\n")
+
+
+try:
+
+        resp = str(input(Fore.LIGHTBLUE_EX+"Gostaria de ver cameras IP expostas ? (S) para sim      : "))
+    
+        if resp == 'S' or resp == 's' :
+            print("Procurando...")
+            print("\n")	
+            print("Achado")
+except KeyboardInterrupt:
+    print (" ")
+    
+resp = str(input(Fore.LIGHTBLUE_EX+"Gostaria de ver a cameras IPs encontradas?   (S) para sim        :"))
+if resp == 'S' or resp == 's' :
+            print(Fore.LIGHTYELLOW_EX+"http://pendelcam.kip.uni-heidelberg.de/view/viewer_index.shtml?id=84726")
+            time.sleep (2)
+            print(Fore.LIGHTYELLOW_EX+"http://179.156.253.193:8082/Login.htm")
+            time.sleep(0.6)
+            print(Fore.LIGHTYELLOW_EX+"http://177.68.74.173:86/Login.htm")
+            time.sleep(3)
+            print(Fore.LIGHTYELLOW_EX+"http://109.206.96.249:8080/multi.html")
+            
+            print(Fore.LIGHTMAGENTA_EX+'''
+coded by:                            
+●●●                  
+●  ●                 
+●   ●              
+●    ●            
+●AIKON●               
+●      ●        
+●       ●        
+●        ●          
+ ''' )
