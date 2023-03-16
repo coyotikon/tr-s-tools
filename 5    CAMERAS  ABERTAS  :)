@@ -80,7 +80,7 @@ if resp == 'S' or resp == 's' :
             time.sleep(3)
             print(Fore.LIGHTYELLOW_EX+"http://109.206.96.249:8080/multi.html")
 time.sleep(3)
-            print(Fore.LIGHTYELLOW_EX+"http://http://201.144.24.221:80")
+            print(Fore.LIGHTYELLOW_EX+"http://201.144.24.221:80")
             print(Fore.LIGHTYELLOW_EX+"http://148.216.81.64:80")
             time.sleep(2)
  print(Fore.LIGHTYELLOW_EX+"
@@ -103,7 +103,36 @@ time.sleep(3)
 print(Fore.LIGHTYELLOW_EX+"http://132.248.4.14:80")
 time.sleep(1)
 print(Fore.LIGHTYELLOW_EX+"http://201.174.12.243:1024")
-            print(Fore.LIGHTMAGENTA_EX+'''
+print(Fore.LIGHTYELLOW_EX+"http://47.23.136.226:1024")
+print(Fore.LIGHTYELLOW_EX+"http://173.10.158.142:8081")
+print(Fore.LIGHTYELLOW_EX+"http://75.149.139.113:8082")
+print(Fore.LIGHTYELLOW_EX+"http://66.112.67.74:50002")
+print(Fore.LIGHTYELLOW_EX+"http://74.142.49.38:8000")
+
+ print(Fore.LIGHTYELLOW_EX+"http://74.142.49.38:8001")
+
+ print(Fore.LIGHTYELLOW_EX+"http://65.219.130.72:8001")                               
+print(Fore.LIGHTYELLOW_EX+"http://216.129.237.187:8083")
+print(Fore.LIGHTYELLOW_EX+"http://209.217.222.214:8082")
+                                   
+print(Fore.LIGHTYELLOW_EX+"http://198.153.90.222:3000")                          
+   print(Fore.LIGHTYELLOW_EX+"http://70.61.121.222:5000")
+
+print(Fore.LIGHTYELLOW_EX+"http://24.106.61.2:8081")
+
+print(Fore.LIGHTYELLOW_EX+"http://24.158.26.12:8888")                             
+print(Fore.LIGHTYELLOW_EX+"http://173.245.150.16:8080")                      
+print(Fore.LIGHTYELLOW_EX+"http://75.144.124.21:1024")
+print(Fore.LIGHTYELLOW_EX+"http://68.225.122.22:8001")
+print(Fore.LIGHTYELLOW_EX+"http://70.91.83.110:1024")                           
+print(Fore.LIGHTYELLOW_EX+"http://206.158.4.15:8080")
+print(Fore.LIGHTYELLOW_EX+"http://12.109.102.175:5001")                         
+  print(Fore.LIGHTYELLOW_EX+"http://162.233.208.121:5001")                           
+print(Fore.LIGHTYELLOW_EX+"http://96.38.26.130:8080")                         
+   print(Fore.LIGHTYELLOW_EX+"http://192.110.201.34:8000")                           
+  print(Fore.LIGHTYELLOW_EX+"http://50.96.119.240:8000")
+            
+print(Fore.LIGHTMAGENTA_EX+'''
 coded by:                            
 ●●●                  
 ●  ●                 
