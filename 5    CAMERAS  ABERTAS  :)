@@ -79,7 +79,30 @@ if resp == 'S' or resp == 's' :
             print(Fore.LIGHTYELLOW_EX+"http://177.68.74.173:86/Login.htm")
             time.sleep(3)
             print(Fore.LIGHTYELLOW_EX+"http://109.206.96.249:8080/multi.html")
-            
+time.sleep(3)
+            print(Fore.LIGHTYELLOW_EX+"http://http://201.144.24.221:80")
+            print(Fore.LIGHTYELLOW_EX+"http://148.216.81.64:80")
+            time.sleep(2)
+ print(Fore.LIGHTYELLOW_EX+"
+ http://187.237.251.183:80")
+ print(Fore.LIGHTYELLOW_EX+"http://148.244.116.13:80")
+
+print(Fore.LIGHTYELLOW_EX+"http://187.174.136.138:8080")
+
+print(Fore.LIGHTYELLOW_EX+"http://201.165.215.16:80")
+time.sleep(3)
+print(Fore.LIGHTYELLOW_EX+"http://187.237.116.40:82")
+time.sleep(1)
+print(Fore.LIGHTYELLOW_EX+"http://201.134.110.102:8000")
+print(Fore.LIGHTYELLOW_EX+"http://132.248.4.26:80")
+time.sleep(2)
+
+print(Fore.LIGHTYELLOW_EX+"http://132.248.4.26:8080")
+print(Fore.LIGHTYELLOW_EX+"http://132.248.4.16:80")
+time.sleep(3)
+print(Fore.LIGHTYELLOW_EX+"http://132.248.4.14:80")
+time.sleep(1)
+print(Fore.LIGHTYELLOW_EX+"http://201.174.12.243:1024")
             print(Fore.LIGHTMAGENTA_EX+'''
 coded by:                            
 ●●●                  
@@ -89,5 +112,5 @@ coded by:
 ●AIKON●               
 ●      ●        
 ●       ●        
-●        ●          
+●        ●     FORNECEDOR DA LISTA DE CAMERAS : BLACK BLOOD  ou  YOUNG  ou   GHOST     
  ''' )
